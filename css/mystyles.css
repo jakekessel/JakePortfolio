@@ -1,0 +1,40 @@
+
+/*Style the container*/
+.container {
+	max-width: 600px;
+}
+
+/*Style the titles */
+
+h1 {
+	font-family: serif;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	border-bottom: 1px solid grey;
+	color: grey;
+}
+
+/*Style the paragraphs*/
+
+p{
+	color: grey;
+}
+
+/*Image styles*/
+
+.hero {
+	max-width:570px;
+}
+
+.logo {
+	max-width: 30px;
+}
+
+.navbar-brand {
+	padding: 10px;
+}
+
+/*Menu styles*/
+
+
+
